@@ -9,9 +9,7 @@
     },
     "layouts": {
         "keymap": [
-          {
-            "name": "ibm"
-          },
+
           [
             {
               "y": 1,
